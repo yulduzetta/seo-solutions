@@ -1,6 +1,12 @@
 ## Module 1 Challenge
 HTML CSS Git Challenge: Code Refactor
 
+### User Story:
+```AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
+
 ### Specification
 ```GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -14,18 +20,18 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-### Design mock-up
-![mockup-preview](./mocks/landing-page.png)
-
 ### View online
-Navigate to https://yulduzetta.github.io/urban-octo-telegram/
+Navigate to https://yulduzetta.github.io/seo-solutions/
 
 ### View locally
 ```sh
-$ git clone git@github.com:yulduzetta/urban-octo-telegram.git
-$ cd urban-octo-telegram.git
+$ git clone git@github.com:yulduzetta/seo-solutions.git
+$ cd seo-solutions
 $ open index.html 
 ```
+### Design mock-up
+![mockup-preview](./mocks/landing-page.png)
+
 
 
 
